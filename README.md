@@ -22,7 +22,8 @@ O modelo considera limitações de **capacidade, manutenção e emissões de CO�
 ## 🌐 Visualização
 O modelo inclui uma **visualização 3D** do espaço viável de produção, mostrando a região das combinações possíveis de energia solar e eólica e destacando o ponto ótimo de lucro.
 
-![Gráfico 3D da Produção Ótima](insere_aqui_o_link_da_imagem_ou_captura.png)
+![Gráfico 3D da Produção Ótima de Energia](https://github.com/Djelanyc/Operational_research-producao-de-energia/raw/main/Produ%C3%A7%C3%A3o_%C3%B3tima_de_energia_3D_plot.png)
+
 
 
 ## Resultados
@@ -50,4 +51,8 @@ Estudante de Engenharia e Gestão Industrial
 
 ---
 ## Ficheiros incluidos
+- [Relatório HTML](https://github.com/Djelanyc/Operational_research-producao-de-energia/blob/main/OR_LP_produ%C3%A7%C3%A3o_de_energia.html)
+- [Relatório PDF](https://github.com/Djelanyc/Operational_research-producao-de-energia/blob/main/OR_LP_produ%C3%A7%C3%A3o_de_energia.pdf)
+- [Código Python](https://github.com/Djelanyc/Operational_research-producao-de-energia/blob/main/OR_LP_produ%C3%A7%C3%A3o_de_energia.py)
+- ![Gráfico 3D da Produção Ótima de Energia](https://github.com/Djelanyc/Operational_research-producao-de-energia/raw/main/Produ%C3%A7%C3%A3o_%C3%B3tima_de_energia_3D_plot.png)
 
