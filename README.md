@@ -43,9 +43,11 @@ Programação Linear é uma ferramenta poderosa para **tomada de decisão estrat
 - Sustentabilidade e Gestão de Energia  
 ---
 ##  Autor
+
 **Djelany Cruz**  
 Estudante de Engenharia e Gestão Industrial  
-📍 Portugal  
+📍 Portugal
+
 ---
 ## Ficheiros incluidos
 
